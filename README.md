@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hola! 👋
 
-<!--
-**ivancaas/ivancaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente he terminado un cCurso de Programación de Aplicaciones en Android y desarrollo de API REST de la EOI. También he realizado recientemente un curso de Kotlin para desarrolladores Android
 
-Here are some ideas to get you started:
+A su vez, pertenezco a la escuela 42 Madrid de Programación (puedes echar un vistazo a su web aquí: https://www.42madrid.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Conocimientos de desarrollo: 🔭
+
+- Control de versiones con Git
+- Desarrollo de Apps Android con Kotlin
+- Desarrollo de RestAPI con Node.js, Angular y MongoDB.
+- Maquetación: HTML5, CSS3, Bootstrap
+- Lenguajes que manejo: Kotlin, Python, JavaScript
+- Manejo de Android Studio, VS Code, Github, Trello, Jira
+- Experiencia desarrollo de proyectos usando la metodología Ágil y marco de trabajo Scrum
+
+## ¿Quieres conocerme o saber un poco más de mí?
+
+Puedes mandarme un correo aquí: ivancaaas@gmail.com
+
+Contactarme a través de Linkedin: https://www.linkedin.com/in/ivan-carracedo/
