@@ -1,6 +1,6 @@
 # Hola! 👋
 
-Actualmente he terminado un cCurso de Programación de Aplicaciones en Android y desarrollo de API REST de la EOI. También he realizado recientemente un curso de Kotlin para desarrolladores Android
+Actualmente he terminado un curso de Programación de Aplicaciones en Android y desarrollo de API REST de la EOI. También he realizado recientemente un curso de Kotlin para desarrolladores Android
 
 A su vez, pertenezco a la escuela 42 Madrid de Programación (puedes echar un vistazo a su web aquí: https://www.42madrid.com)
 
