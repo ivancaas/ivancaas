@@ -8,7 +8,9 @@ A su vez, pertenezco a la escuela 42 Madrid de Programación (puedes echar un vi
 
 - Control de versiones con Git
 - Desarrollo de Apps Android con Kotlin
-- Desarrollo de RestAPI con Node.js, Angular y MongoDB.
+- Desarrollo de RestAPI con Node.js y MongoDB.
+- Desarrollo Frontend con Angular, React
+- Manejo de CMS como Wordpress
 - Maquetación: HTML5, CSS3, Bootstrap
 - Lenguajes que manejo: Kotlin, Python, JavaScript
 - Manejo de Android Studio, VS Code, Github, Trello, Jira
