@@ -7,6 +7,8 @@ Development skills: 🔭
 
 - Version control with Git
 - Android App development with Kotlin (MVVM, ROOM, JETPACK COMPOSE, HILT...)
+- Android/IOS App development with Kotlin Multiplatform with shared bussiness logic and or UI
+- Experience in play store publishing, and with CI/CD Tools
 - Python development, scripts, crawlers, App Publisher... etc.
 - RestAPI development with Node.js and MongoDB.
 - Frontend development with Angular, React.
