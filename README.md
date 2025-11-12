@@ -67,4 +67,3 @@ Driven by curiosity, collaboration, and continuous learning.
 Always pushing boundaries to merge elegant design with robust engineering.
 
 ---
-**Q3:** Would you like a short tagline or summary line (e.g., for the top of your GitHub README) that encapsulates your technical identity in one impactful sentence?
